@@ -1,0 +1,81 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "Name": "Graffersid Web and App Development",
+      "logo": "./codeTech.png",
+      "address": "816,Shekhar Central, Manoramaganj, AB road, New Palasia, Indore(M.P.)",
+      "date": "01-01-2016",
+      "rating": 3.5,
+      "reviews": [
+        {
+          "userId": 1,
+          "userName": "John Doe",
+          "reviewDate": "02-02-2017",
+          "comment": "Great service!",
+          "avatar": "avatar",
+          "rating": 4.5
+        },
+        {
+          "userId": 2,
+          "userName": "Jane Smith",
+          "reviewDate": "02-02-2017",
+          "comment": "Could be better.",
+          "avatar": "avatar",
+          "rating": 3
+        },
+        {
+          "userName": "Rohan",
+          "comment": "Good!!!",
+          "rating": 4.5,
+          "userId": 3,
+          "reviewDate": "2024-05-19"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "Name": "Code Tech Company",
+      "logo": "codeTech",
+      "address": "414, Kanha Appartment, Indore(M.P.)",
+      "date": "01-01-2016",
+      "rating": 2,
+      "reviews": [
+        {
+          "userId": 3,
+          "userName": "Alice Johnson",
+          "reviewDate": "02-02-2017",
+          "comment": "Terrible experience.",
+          "avatar": "avatar",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "Name": "Innogent Pvt. Ltd.",
+      "logo": "innogent",
+      "address": "816,Shekhar Central, Manoramaganj, AB road, New Palasia, Indore(M.P.)",
+      "date": "01-01-2016",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "userId": 4,
+          "userName": "Bob Williams",
+          "reviewDate": "02-02-2017",
+          "comment": "Excellent company to work with.",
+          "avatar": "avatar",
+          "rating": 5
+        },
+        {
+          "userId": 5,
+          "userName": "Emily Brown",
+          "reviewDate": "02-02-2017",
+          "comment": "Highly recommend!",
+          "avatar": "avatar",
+          "rating": 4.5
+        }
+      ]
+    }
+  ]
+}
